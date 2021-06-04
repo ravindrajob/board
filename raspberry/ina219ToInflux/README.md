@@ -3,10 +3,10 @@
 ## 1.Install python
 sudo apt-get install python3-pip
 
-####.Install library
+#### Install library
+sudo pip3 install pi-ina219
 
-
-### Check if it's ok 
+#### Check if it's ok 
 pip3 list | grep ina219
 
 ### execution

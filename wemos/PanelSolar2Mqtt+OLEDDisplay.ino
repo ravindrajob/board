@@ -170,11 +170,6 @@ char *to_string(float num)
     sprintf(a, "%f", num);
     return a;
 }
-
-
-
-
-
   
 void loop() {
   scani2c();
