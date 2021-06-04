@@ -1,6 +1,6 @@
 #Solar Panel v0.1
 
-This project it's a little code for measure ampere and voltage value of panel solar and the battery. 
+This project is a little code for measure ampere and voltage value of a panel solar and the battery. 
 This value will be display in the OLED and it will send to a MQTT broquer
 
 A small draw of this project :
