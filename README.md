@@ -1,3 +1,10 @@
-# Interv 0.1
-Here a simple example of code for switch on a relay and send a message when it's pressed
-![alt text](https://ravindrajob.blob.core.windows.net/assets/interv0.2.png)
+Dans ce repos vous trouvez de nombreux code autour des ondes radios. Ci dessous un petit rappel pour vous aidez à choisir la "bonne onde" pour votre projet :)
+
+NFC :  (Exemple: Système de carte ou badge/clef à faire passer dans un boitier)
+RFID :  
+PIR : (Exemple: détection de présence humaine – pas de possibilité de savoir qui c'est)
+WIFI : 
+Bluetooth : Porter  Bluetooth (10 m) + Adresse MAC
+Ultrason : (Exemple: moyen précis de détecter une personne et la localiser dans la pièce )
+Reconnaissance Facial : (Exemple: utilisation d'une solution Open source appelle Open face, powerd by GOOGLE)
+Laser : En cours de développement 
