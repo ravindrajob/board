@@ -1,3 +1,7 @@
+# Author: Ravindra JOB
+#  SiteWeb: ravindra-job.com
+# LastUpdate : 24/10/2020
+
 # IMPORT THE LIBERARY.
 from influxdb_client import InfluxDBClient, Point
 from ina219 import INA219
