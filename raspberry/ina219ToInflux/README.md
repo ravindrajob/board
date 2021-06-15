@@ -10,7 +10,7 @@ sudo pip3 install pi-ina219
 pip3 list | grep ina219
 
 ### execution
-# python3 demo.py
+#### python3 demo.py
 
 ![alt text](https://ravindrajob.blob.core.windows.net/assets/python-ina.png)
 
