@@ -1,4 +1,4 @@
-Dans ce dépot  vous trouvez de nombreux codes autour des ondes radios. 
+Dans ce dépôt vous trouvez de nombreux codes autour des ondes radios. 
 
 Ci dessous un petit rappel pour vous aidez à choisir la "bonne onde" pour votre projet :
 
