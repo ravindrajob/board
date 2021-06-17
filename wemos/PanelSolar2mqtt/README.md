@@ -7,7 +7,7 @@ This value will be display in the OLED and it will send to a MQTT broquer
 ![alt text](https://cdn-learn.adafruit.com/assets/assets/000/002/458/medium800/adafruit_products_2012_10_25_IMG_0721-1024.jpg?1396783305)
 
 #### Grafana View :
-![alt text](https://ravindrajob.blob.core.windows.net/assets/PanelGrafana.jpg)
+![alt text](https://ravindrajob.blob.core.windows.net/assets/PanelGrafana.png)
 
 #### The prototype
 ![alt text](https://ravindrajob.blob.core.windows.net/assets/SolarProto1.jpg)
